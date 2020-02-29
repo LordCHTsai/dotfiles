@@ -6,6 +6,9 @@ alias vi="nvim"
 export EDITOR=nvim
 export GIT_EDITOR=nvim
 
+# fzf
+export FZF_DEFAULT_OPTS='--height 60% --layout=reverse --border'
+
 # pyenv
 eval "$(pyenv init -)"
 

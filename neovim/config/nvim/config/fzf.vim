@@ -1,4 +1,4 @@
-Plug '/usr/local/opt/fzf'
+Plug 'junegunn/fzf', { 'do': './install --bin' }
 Plug 'junegunn/fzf.vim'
 
 nnoremap <silent> <C-t> :Files<CR>

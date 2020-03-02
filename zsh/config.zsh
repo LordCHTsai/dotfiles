@@ -1,6 +1,7 @@
 alias l="la -Al"
 alias vim="nvim"
 alias vi="nvim"
+alias tmux="tmux -2"
 
 # default editor
 export EDITOR=nvim

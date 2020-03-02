@@ -21,6 +21,10 @@
   5. Copypasta `prompt_agnoster2lines_setup` to prezto theme
   6. Modify `.zpreztorc` to use `agnoster2lines` theme
 
+## TMUX
+  1. Install tmux
+  2. `ln -s "$(pwd)/.tmux.config" ~/.tmux.config`
+
 [1]: https://github.com/sorin-ionescu/prezto
 [2]: https://github.com/junegunn/vim-plug
 [3]: https://github.com/junegunn/fzf

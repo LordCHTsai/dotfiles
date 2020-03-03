@@ -25,6 +25,9 @@
   1. Install tmux
   2. `ln -s "$(pwd)/.tmux.conf" ~/.tmux.conf`
 
+## GITCONFIG
+  1. `ln -s "$(pwd)/.gitconfig" ~/.gitconfig`
+
 [1]: https://github.com/sorin-ionescu/prezto
 [2]: https://github.com/junegunn/vim-plug
 [3]: https://github.com/junegunn/fzf

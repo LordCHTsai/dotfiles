@@ -1,0 +1,7 @@
+[alias]
+	st = status
+	co = checkout
+[core]
+	editor = vim
+[diff]
+	tool = vimdiff
